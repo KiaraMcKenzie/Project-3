@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css?family=Gotu|Noto+Serif+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
+
+
+
+
+#nav ul{
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Noto Serif SC', serif;
+  background-color: #f8f3e9;
+}
+
+#navbar-container {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+#nav ul li{
+	margin:0;
+	float:left;
+}
+
+
+#nav ul li a{
+  display: block;
+  margin: 5px;
+  float: left;
+  display: block;
+  color: #196e94;
+  padding: 14px 16px;
+  text-decoration: none;
+  overflow: hidden;
+  vertical-align: middle;
+  
+}
+
+
+#nav ul li a:hover {
+  background-color:#f8e5ea;
+}
+
+
+
+body.resume {
+	background-color: #fcfcf4;
+	color: black;
+	line-height:1.45;
+	font-family: 'Noto Serif SC', serif;
+	
+}
+
+div#resume h1 {
+	font-size: 2.6em;
+	margin-top: 1em;
+	padding-bottom: .5em;
+	color: black;
+	text-align: left;
+	font-family: 'Palatino Linotype', serif;
+}
+
+
+div#resume h2 {
+	font-size: 2em;
+	margin: 0.67em 0;
+	color: #196e94;
+	font-family: 'Palatino Linotype', serif;
+}
+
+div#resume h3 {
+	
+	font-size: 1.6em;
+	margin-left: 1em;
+	color: black;
+	font-weight: bold;
+	font-family: 'Palatino Linotype', serif;
+}
+
+ul.a {
+	list-style-type:disc;
+	text-align:left;
+	line-height: 1.6em;
+
+  display: list-item;
+  margin:2em;
+
+}
+
+
+body.barcelona {
+  background-image:url(../images/sunset.jpg);
+  background-color:#9fe2bf;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+	padding:0;
+	letter-spacing: normal;
+		line-height:1.45;
+
+}
+
+img.barcelona {
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+div#barcelona h1 {
+	color:white;
+	font-size:  5em;
+	margin-top: 1em;
+	padding-bottom: .5em;
+	text-align: center;
+	text-indent: 50px;
+	font-family: 'Gotu', sans-serif;
+}
+
+div#barcelona p {
+	color: black;
+	text-indent: 50px;
+	line-height:1.6;
+	text-align: center;
+	font-family: 'Gotu', sans-serif;
+	font-size: 1.2em;
+}
+div#barcelona h2 {
+	margin-top: 1em;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+div#barcelona h3{
+	margin-top: 1em;
+	font-size: 1.5em;
+	color: silver;
+	text-align: center;
+	font-family: 'Gotu', sans-serif;
+}
+
+
+
+
+
+
+body.cats{
+  background-image:url(../images/pawprints.jpg);
+  background-color: #e1cba0;
+  background-size:  cover;
+}
+
+ div#cats h1 {
+	font-size: 5em;
+	margin-top: 1em; 
+	color: black;
+	text-align: center;
+	font-family: 'Gotu', sans-serif;
+}
+
+div#cats p {
+	color: black;
+	text-indent:50px;
+	line-height: 1.6;
+	margin-bottom: 2em;
+	font-family: 'Gotu', sans-serif;
+	font-size: 1.2em;
+}
+div#cats h2 {
+	font-size: 2.2em;
+	margin-top: 1em;
+	padding-bottom: .5em;
+	color: black;
+	text-align: center;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+div#cats h3 {
+	color: black;
+	font-size: 2em;
+	font-family: 'Gotu', sans-serif;
+}
+
+
+img.solo {
+	display:block;
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto;
+	width:300px;
+	height:300px;
+}
+img.oreo {
+	display:block;
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto;
+	width:300px;
+	height:300px;
+}
+
+ul.b {
+	list-style-type: none;
+	text-align: center;
+	padding-right: 25px;
+	line-height: 1.6;
+	color: blue;
+	font-size: 1.2em;
+}
+
+.gallery {
+	background-color: white;
+ display:table-cell;
+ margin: 25px;
+ float: left;
+ width: 350px;
+  border: 3px solid #777; 
+}
+.container{
+	width: 500px;
+	margin: auto;
+}
+
+
+.gallery img {
+  width: 100%;
+  height: auto;
+ 
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.clear {
+	clear:both;
+}
+
+.video{
+	text-align:center;
+	width: 450; 
+	height: 450;
+	}
+	
+#map{
+	width: 100%;
+	height: 400px;
+}
+
+.slideshow {
+text-align:center;
+position: relative;
+
+
+margin: auto;
+}
+.slideshow-container{
+width: 100%;
+}
+
+
